@@ -1,0 +1,92 @@
+body {
+	background-image: url(img/fonAnna.png);
+	background-color: rgba(0, 0, 0, 0);
+	margin: 0px;
+	color: #3C3F8C;
+}
+
+a:link, a:visited{
+	color: #BC5D15;
+	text-decoration: none;
+}
+a:hover{
+	color: #E8B96A;
+}
+a:active{
+	color: #E8B96A;
+	font: 12pt/10pt 'BRUSH SCRIPT MT';
+	font-size: 42px;
+}
+
+h1{
+	font: 12pt/10pt 'BRUSH SCRIPT MT';
+	font-size: 66px;
+	width: 350px;
+	cursor: default;
+	height: 15px;
+	top: 100px;
+	right: 20px;
+	bottom: 0;
+	left: 0;
+	margin: 100px 0px 10px 10px;
+}
+
+p {
+	font: 12pt/25pt 'brush script mt';
+	font-size: 35px;
+	width: 600px;
+	cursor: default;
+	height: 15px;
+	top: 100px;
+	right: 20px;
+	bottom: 0;
+	left: 0;
+	margin: 0px 0px 10px 10px;
+}
+
+.krayashekL {
+	color: #ffffff;
+	background-color: #040002;
+	position: fixed; 
+	top: 0px;
+	overflow:auto;
+	left: 0%;
+	width: 20%;
+	height: 73px;
+}
+
+.krayashekR {
+	color: #ffffff;
+	background-color: #040002;
+	position: fixed; 
+	top: 0px;
+	overflow:auto;
+	left: 80%;
+	width: 20%;
+	height: 73px;
+}
+
+.centr {
+	color: #BC5D15;
+	background-color: #040002;
+	position: fixed; 
+	top: 0px;
+	overflow:auto;
+	left: 20%;
+	width: 60%;
+	height: 73px;
+}
+
+.centr p{
+	font: 12pt/10pt 'ALGERIAN';
+	font-size: 42px;
+	width: 350px;
+	cursor: default;
+	height: 15px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+}
